@@ -1,0 +1,101 @@
+id,title,severity,status,date,reported_by,description
+1,Phishing Email to Executive Team,High,Open,2024-01-15,admin@company.com,Suspicious email targeting CEO with malicious attachment
+2,Malware Detected on Workstation,Medium,Investigating,2024-01-16,tech@company.com,Trojan detected on employee workstation
+3,DDoS Attack on Web Server,Critical,Resolved,2024-01-17,security@company.com,Distributed Denial of Service attack lasting 2 hours
+4,Unauthorized Database Access,High,Open,2024-01-18,dbadmin@company.com,Unknown user accessed customer database
+5,Ransomware Encrypted Files,Critical,Investigating,2024-01-19,sysadmin@company.com,Multiple shared drives encrypted with .lockbit extension
+6,Social Engineering Attempt,Medium,Closed,2024-01-20,hr@company.com,Caller impersonating IT staff requesting passwords
+7,Data Exfiltration Detected,High,Investigating,2024-01-21,security@company.com,Large volume of data transferred to external IP
+8,Brute Force Attack on VPN,High,Open,2024-01-22,network@company.com,Multiple failed login attempts from Russian IPs
+9,SQL Injection Attempt,Medium,Resolved,2024-01-23,webadmin@company.com,Injection attack on login form blocked by WAF
+10,Insider Threat Alert,High,Investigating,2024-01-24,security@company.com,Employee accessing files outside normal hours
+11,Supply Chain Attack,Medium,Open,2024-01-25,procurement@company.com,Compromised software update from vendor
+12,Credential Stuffing Attack,High,Investigating,2024-01-26,security@company.com,Use of previously breached credentials
+13,Zero-Day Exploit Attempt,Critical,Open,2024-01-27,research@company.com,Exploit targeting unpatched vulnerability
+14,Cloud Misconfiguration,Medium,Resolved,2024-01-28,cloudops@company.com,S3 bucket left publicly accessible
+15,Endpoint Detection Bypass,High,Investigating,2024-01-29,security@company.com,Malware bypassing antivirus detection
+16,IoT Device Compromise,Medium,Open,2024-01-30,iotadmin@company.com,Smart thermostat communicating with C2 server
+17,API Security Breach,High,Investigating,2024-01-31,devops@company.com,Exposed API keys in GitHub repository
+18,Physical Security Breach,Medium,Resolved,2024-02-01,security@company.com,Unauthorized access to server room
+19,Mobile Device Theft,High,Open,2024-02-02,hr@company.com,Company smartphone stolen with corporate data
+20,Wireless Network Eavesdropping,Medium,Investigating,2024-02-03,network@company.com,Rogue access point detected in building
+21,Email Account Compromise,High,Open,2024-02-04,it@company.com,Executive email account sending spam
+22,File Integrity Alert,Medium,Investigating,2024-02-05,security@company.com,System files modified without authorization
+23,Privilege Escalation Attempt,High,Open,2024-02-06,sysadmin@company.com,User attempting to gain admin rights
+24,Cryptojacking Detection,Medium,Resolved,2024-02-07,security@company.com,Unauthorized cryptocurrency mining
+25,Watering Hole Attack,High,Investigating,2024-02-08,webadmin@company.com,Compromised website frequently visited by employees
+26,Man-in-the-Middle Attack,Medium,Open,2024-02-09,network@company.com,Intercepted communications on public WiFi
+27,Session Hijacking,High,Investigating,2024-02-10,security@company.com,Stolen session tokens being used
+28,Cross-Site Scripting (XSS),Medium,Resolved,2024-02-11,dev@company.com,XSS vulnerability in web application
+29,Cross-Site Request Forgery,Medium,Open,2024-02-12,webadmin@company.com,CSRF attack changing user settings
+30,Clickjacking Attempt,Low,Closed,2024-02-13,security@company.com,Malicious overlay on legitimate website
+31,Password Spray Attack,High,Investigating,2024-02-14,it@company.com,Single password tried against multiple accounts
+32,LDAP Injection,Medium,Open,2024-02-15,sysadmin@company.com,Injection attack on directory services
+33,XML External Entity (XXE),Medium,Investigating,2024-02-16,dev@company.com,XXE vulnerability in document parser
+34,Server-Side Request Forgery,High,Open,2024-02-17,security@company.com,SSRF attack accessing internal services
+35,Insecure Direct Object Reference,Medium,Resolved,2024-02-18,dev@company.com,IDOR vulnerability exposing user data
+36,Security Misconfiguration,Medium,Open,2024-02-19,sysadmin@company.com,Default credentials still in use
+37,Sensitive Data Exposure,High,Investigating,2024-02-20,security@company.com,Unencrypted PII in database backups
+38,Missing Function Level Access Control,Medium,Open,2024-02-21,dev@company.com,API endpoints without proper authorization
+39,Using Components with Known Vulnerabilities,Medium,Investigating,2024-02-22,devops@company.com,Outdated library with CVE-2024-1234
+40,Insufficient Logging & Monitoring,Low,Open,2024-02-23,security@company.com,Attack went undetected for 30 days
+41,Advanced Persistent Threat (APT),Critical,Investigating,2024-02-24,research@company.com,Suspected nation-state actor activity
+42,Business Email Compromise,High,Open,2024-02-25,finance@company.com,Fraudulent wire transfer request
+43,Shadow IT Discovery,Medium,Resolved,2024-02-26,it@company.com,Unauthorized cloud service usage
+44,Data Loss Prevention Alert,High,Investigating,2024-02-27,security@company.com,Attempt to email confidential document
+45,Encrypted Traffic Analysis,Medium,Open,2024-02-28,network@company.com,Malware using TLS to evade detection
+46,Container Escape Attempt,High,Investigating,2024-02-29,devops@company.com,Attempt to break out of Docker container
+47,Kubernetes Security Breach,Critical,Open,2024-03-01,cloudops@company.com,Unauthorized pod deployment
+48,Serverless Function Abuse,Medium,Investigating,2024-03-02,devops@company.com,AWS Lambda function mining cryptocurrency
+49,Blockchain Security Incident,High,Open,2024-03-03,blockchain@company.com,Smart contract vulnerability exploited
+50,Quantum Computing Threat Research,Low,Investigating,2024-03-04,research@company.com,Preparing for future quantum threats
+51,AI Model Poisoning,Medium,Open,2024-03-05,ai@company.com,Training data contaminated to manipulate AI
+52,Deepfake Audio Attack,High,Investigating,2024-03-06,security@company.com,CEO voice deepfake used in social engineering
+53,5G Network Security,Medium,Open,2024-03-07,network@company.com,Vulnerabilities in 5G core network
+54,Satellite Communication Intercept,High,Investigating,2024-03-08,comms@company.com,Suspected interception of satellite data
+55,Autonomous Vehicle Hack,Medium,Open,2024-03-09,research@company.com,Research into vehicle cybersecurity
+56,Medical Device Compromise,Critical,Investigating,2024-03-10,health@company.com,Patient monitoring system security breach
+57,Industrial Control System Attack,High,Open,2024-03-11,iot@company.com,SCADA system targeted by threat actor
+58,Smart City Infrastructure,Medium,Investigating,2024-03-12,municipal@company.com,Traffic light system vulnerability
+59,Drone Security Breach,High,Open,2024-03-13,security@company.com,Unauthorized drone accessing facility
+60,Space Asset Cybersecurity,Medium,Investigating,2024-03-14,space@company.com,Satellite ground station security
+61,Biometric Data Theft,High,Open,2024-03-15,hr@company.com,Fingerprint database breach
+62,Genetic Data Security,Medium,Investigating,2024-03-16,research@company.com,DNA sequencing data protection
+63,Augmented Reality Security,Low,Open,2024-03-17,ar@company.com,AR headset vulnerability research
+64,Virtual Reality Data Leak,Medium,Investigating,2024-03-18,vr@company.com,VR meeting room recording exposed
+65,Metaverse Security Incident,High,Open,2024-03-19,web3@company.com,NFT marketplace smart contract hack
+66,Decentralized App Exploit,Medium,Investigating,2024-03-20,blockchain@company.com,DeFi protocol vulnerability
+67,Cross-Chain Bridge Attack,High,Open,2024-03-21,crypto@company.com,Bridge between blockchains drained
+68,Oracle Manipulation Attack,Medium,Investigating,2024-03-22,defi@company.com,Price feed oracle compromised
+69,Flash Loan Attack,High,Open,2024-03-23,security@company.com,DeFi protocol drained via flash loan
+70,Rug Pull Scam,Medium,Investigating,2024-03-24,compliance@company.com,Crypto project exit scam
+71,Smart Contract Audit Finding,Low,Open,2024-03-25,audit@company.com,Vulnerability discovered during audit
+72,Governance Attack,Medium,Investigating,2024-03-26,dao@company.com,DAO voting manipulation attempt
+73,MEV (Miner Extractable Value) Attack,High,Open,2024-03-27,research@company.com,Front-running transactions
+74,Layer 2 Security Breach,Medium,Investigating,2024-03-28,blockchain@company.com,Rollup vulnerability exploited
+75,Zero-Knowledge Proof Bug,High,Open,2024-03-29,zk@company.com,Cryptographic implementation error
+76,Multi-Sig Wallet Compromise,Critical,Investigating,2024-03-30,crypto@company.com,Company treasury wallet hacked
+77,Staking Protocol Attack,Medium,Open,2024-03-31,defi@company.com,Staked funds slashed due to bug
+78,Liquid Staking Vulnerability,High,Investigating,2024-04-01,security@company.com,Smart contract allows unlimited minting
+79,Rebase Token Manipulation,Medium,Open,2024-04-02,research@company.com,Algorithmic stablecoin attack
+80,Yield Farming Exploit,High,Investigating,2024-04-03,defi@company.com,Yield optimization contract drained
+81,Insurance Protocol Hack,Medium,Open,2024-04-04,crypto@company.com,DeFi insurance fund compromised
+82,Options Protocol Attack,High,Investigating,2024-04-05,trading@company.com,Options pricing oracle manipulation
+83,Prediction Market Manipulation,Medium,Open,2024-04-06,research@company.com,Event outcome manipulation attempt
+84,NFT Marketplace Bug,Low,Investigating,2024-04-07,nft@company.com,Listing price bypass vulnerability
+85,GameFi Economic Attack,Medium,Open,2024-04-08,gaming@company.com,Play-to-earn game economy exploited
+86,SocialFi Privacy Breach,High,Investigating,2024-04-09,social@company.com,User social graph data exposed
+87,Creator Economy Protocol,Medium,Open,2024-04-10,content@company.com,Revenue sharing smart contract bug
+88,Decentralized Storage Breach,High,Investigating,2024-04-11,storage@company.com,IPFS data availability issue
+89,Decentralized Identity Theft,Medium,Open,2024-04-12,identity@company.com,DID (Decentralized Identifier) compromise
+90,Verifiable Credential Fraud,High,Investigating,2024-04-13,security@company.com,Forged digital credentials
+91,DAO Treasury Management Bug,Medium,Open,2024-04-14,finance@company.com,Fund release without proper quorum
+92,Cross-DAO Governance Attack,High,Investigating,2024-04-15,dao@company.com,Voting power manipulation across DAOs
+93,Meta-Governance Exploit,Medium,Open,2024-04-16,research@company.com,Governance token lending attack
+94,Delegated Voting Attack,High,Investigating,2024-04-17,security@company.com,Vote delegation manipulation
+95,Quadratic Voting Bug,Medium,Open,2024-04-18,governance@company.com,Voting power calculation error
+96,Conviction Voting Exploit,High,Investigating,2024-04-19,dao@company.com,Time-based voting manipulation
+97,Futarchy Market Manipulation,Medium,Open,2024-04-20,research@company.com,Prediction market outcome influencing
+98,Holographic Consensus Bug,High,Investigating,2024-04-21,dao@company.com,Consensus mechanism vulnerability
+99,Plural Voting Attack,Medium,Open,2024-04-22,security@company.com,Multiple voting identities created
+100,Exit Game Vulnerability,High,Resolved,2024-04-23,dao@company.com,DAO member exit exploit patched

@@ -1,0 +1,71 @@
+id,title,priority,status,created_date,assigned_to,category,description
+1,Email Server Not Responding,Critical,Open,2024-01-15,admin@company.com,Infrastructure,Exchange server unavailable for all users
+2,Network Switch Failure,High,In Progress,2024-01-16,network@company.com,Network,Core switch in data center malfunctioning
+3,File Server Access Denied,High,Open,2024-01-17,sysadmin@company.com,File Services,Users cannot access shared drives
+4,VPN Connection Issues,High,Investigating,2024-01-18,security@company.com,Remote Access,VPN authentication failing for remote users
+5,Domain Controller Replication,Medium,Resolved,2024-01-19,admin@company.com,Active Directory,AD replication errors between DCs
+6,Backup Job Failed,Medium,Open,2024-01-20,backup@company.com,Backup,Veeam backup job failing for 3 days
+7,Monitoring System Alert,Medium,In Progress,2024-01-21,monitoring@company.com,Monitoring,PRTG showing multiple device down alerts
+8,Database Performance Slow,High,Investigating,2024-01-22,dbadmin@company.com,Database,SQL Server experiencing high CPU usage
+9,Website SSL Certificate,Medium,Resolved,2024-01-23,webadmin@company.com,Web,SSL certificate expiring in 7 days
+10,User Account Lockout,Low,Open,2024-01-24,helpdesk@company.com,User Management,Multiple users reporting account lockouts
+11,Printer Not Printing,Low,In Progress,2024-01-25,helpdesk@company.com,Print Services,Department printer offline
+12,Software Installation Request,Low,Open,2024-01-26,helpdesk@company.com,Software,New employee needs Adobe Creative Suite
+13,Password Reset,Low,Resolved,2024-01-27,helpdesk@company.com,User Management,User forgot password
+14,Email Signature Update,Low,Open,2024-01-28,helpdesk@company.com,Email,Update company email signature template
+15,Meeting Room AV Issues,Medium,In Progress,2024-01-29,av@company.com,AV Equipment,Conference room projector not working
+16,Mobile Device Enrollment,Low,Open,2024-01-30,mobile@company.com,Mobile,New iPhone needs to be enrolled in MDM
+17,Software License Renewal,Medium,Investigating,2024-01-31,procurement@company.com,Licensing,Microsoft volume license expiring
+18,Firewall Rule Change,High,Open,2024-02-01,security@company.com,Security,Need new firewall rule for application
+19,WiFi Connectivity Problems,Medium,In Progress,2024-02-02,network@company.com,Wireless,Users reporting intermittent WiFi drops
+20,Server Patching,High,Open,2024-02-03,sysadmin@company.com,Patch Management,Monthly security patches need deployment
+21,Storage Space Alert,Medium,Resolved,2024-02-04,storage@company.com,Storage,SAN storage at 90% capacity
+22,VoIP Phone Configuration,Low,Open,2024-02-05,telecom@company.com,Telephony,New user needs desk phone setup
+23,Video Conference Setup,Medium,In Progress,2024-02-06,av@company.com,Video Conferencing,Teams Room system configuration
+24,Access Control Request,Low,Investigating,2024-02-07,security@company.com,Physical Security,New employee needs badge access
+25,Software Bug Report,Medium,Open,2024-02-08,dev@company.com,Development,Application crashing on specific input
+26,Data Export Request,Low,In Progress,2024-02-09,dbadmin@company.com,Database,Extract customer data for reporting
+27,Server Hardware Failure,Critical,Open,2024-02-10,hardware@company.com,Hardware,Production server RAID array failed
+28,Cloud Service Outage,High,Resolved,2024-02-11,cloudops@company.com,Cloud,AWS region experiencing issues
+29,Email Spam Filter,Medium,Open,2024-02-12,security@company.com,Email,Lots of spam getting through filter
+30,Website Defacement,Critical,In Progress,2024-02-13,webadmin@company.com,Web,Company website hacked and modified
+31,Data Corruption Detected,High,Investigating,2024-02-14,storage@company.com,Storage,Database files showing corruption
+32,Authentication Bypass,High,Open,2024-02-15,security@company.com,Security,Web app allows login without password
+33,Compliance Audit Preparation,Medium,In Progress,2024-02-16,compliance@company.com,Compliance,Prepare for ISO 27001 audit
+34,Disaster Recovery Test,High,Resolved,2024-02-17,dr@company.com,DR,Quarterly DR test scheduled
+35,Network Redundancy,Medium,Open,2024-02-18,network@company.com,Network,Implement BGP failover for internet
+36,Load Balancer Configuration,High,In Progress,2024-02-19,network@company.com,Network,Configure F5 load balancer for new app
+37,CDN Setup,Medium,Investigating,2024-02-20,webadmin@company.com,Web,Configure Cloudflare for website
+38,DNS Record Update,Low,Open,2024-02-21,network@company.com,DNS,Add new A record for application
+39,DHCP Scope Full,Medium,In Progress,2024-02-22,network@company.com,DHCP,DHCP scope running out of addresses
+40,IP Address Conflict,Low,Resolved,2024-02-23,network@company.com,Network,Two devices with same IP address
+41,VLAN Configuration,Medium,Open,2024-02-24,network@company.com,Network,Create new VLAN for project team
+42,Router Firmware Update,High,In Progress,2024-02-25,network@company.com,Network,Update Cisco router IOS version
+43,Switch Port Configuration,Low,Investigating,2024-02-26,network@company.com,Network,Configure switch port for VoIP phone
+44,Wireless Survey,Medium,Open,2024-02-27,network@company.com,Wireless,Perform wireless site survey for new office
+45,Network Performance Test,High,In Progress,2024-02-28,network@company.com,Network,Test network throughput between sites
+46,Fiber Optic Cable Damage,Critical,Resolved,2024-02-29,network@company.com,Network,Backhoe cut fiber line to building
+47,Network Monitoring,Medium,Open,2024-03-01,monitoring@company.com,Monitoring,Implement new network monitoring tool
+48,Bandwidth Usage Report,Low,In Progress,2024-03-02,network@company.com,Reporting,Generate monthly bandwidth report
+49,QoS Configuration,Medium,Investigating,2024-03-03,network@company.com,Network,Configure QoS for video conferencing
+50,MPLS Circuit Upgrade,High,Open,2024-03-04,network@company.com,Network,Upgrade MPLS circuit from 100Mbps to 1Gbps
+51,SD-WAN Implementation,High,In Progress,2024-03-05,network@company.com,Network,Implement SD-WAN solution
+52,Zero Trust Network,Medium,Resolved,2024-03-06,security@company.com,Security,Implement zero trust architecture
+53,Cloud Migration,High,Open,2024-03-07,cloudops@company.com,Cloud,Migrate on-prem servers to Azure
+54,Container Orchestration,Medium,In Progress,2024-03-08,devops@company.com,Containers,Implement Kubernetes cluster
+55,Serverless Architecture,Medium,Investigating,2024-03-09,devops@company.com,Cloud,Design serverless application
+56,CI/CD Pipeline,High,Open,2024-03-10,devops@company.com,Development,Implement Jenkins CI/CD pipeline
+57,Infrastructure as Code,Medium,In Progress,2024-03-11,devops@company.com,Automation,Convert infrastructure to Terraform
+58,Git Repository Migration,Low,Resolved,2024-03-12,dev@company.com,Development,Migrate from SVN to Git
+59,Code Review Process,Medium,Open,2024-03-13,dev@company.com,Development,Implement mandatory code reviews
+60,Static Code Analysis,Low,In Progress,2024-03-14,security@company.com,Security,Implement SAST in pipeline
+61,Dynamic Security Testing,Medium,Investigating,2024-03-15,security@company.com,Security,Implement DAST for web apps
+62,Dependency Scanning,High,Open,2024-03-16,security@company.com,Security,Scan for vulnerable dependencies
+63,Container Security,Medium,In Progress,2024-03-17,security@company.com,Security,Implement container security scanning
+64,Secrets Management,High,Resolved,2024-03-18,security@company.com,Security,Implement HashiCorp Vault
+65,Incident Response,Medium,Open,2024-03-19,security@company.com,Security,Update incident response plan
+66,Threat Hunting,High,In Progress,2024-03-20,security@company.com,Security,Proactive threat hunting exercise
+67,Vulnerability Management,Medium,Investigating,2024-03-21,security@company.com,Security,Monthly vulnerability scanning
+68,Security Awareness Training,Low,Open,2024-03-22,hr@company.com,Training,Quarterly security training for staff
+69,Phishing Simulation,Medium,In Progress,2024-03-23,security@company.com,Security,Send simulated phishing emails
+70,Data Classification,Low,Resolved,2024
