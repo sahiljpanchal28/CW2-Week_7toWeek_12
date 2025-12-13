@@ -1,4 +1,0 @@
-admin:admin123:admin@platform.com:admin
-testuser:testpass:test@email.com:user
-demo:demopass:demo@test.com:userjosh:josh123:josh@gmail.com:user
-sahil:sahil123:sahil@gmail.com:user
